@@ -1,0 +1,252 @@
+.content-product{
+  width: 100%;
+  padding-left: 25% !important;
+}
+.oculto{
+  display: none;
+}
+.oculto2{
+  display: block;
+}
+
+@media screen and (max-width: 800px) {
+  .content-product{
+    width: 100%;    
+    padding-left: 3% !important;  
+  }
+}
+
+.card-hover .reveal {
+    position: relative;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    padding: 0;    
+}
+
+@media screen and (max-width: 900px){
+  .card-hover .reveal{
+    position: relative;
+    visibility: visible;
+    opacity: initial;
+    height: auto;
+  }
+  .oculto{
+    display: block !important;
+  }
+  .oculto2{
+    display: none !important;
+  }
+}
+
+.card-hover:hover .reveal {
+  position: relative;
+    height: auto;
+    visibility: visible;
+    opacity: 10;
+    transition: opacity 1s ease;
+}
+
+
+.tam-img{
+    width: 100%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 100px repeat(2, 100px) 100px;
+  grid-template-rows: repeat(2, 100px 100px);
+}
+
+.prueba1{
+    text-align: left;
+    font-size: 15px;
+    color: #4484CE;
+    font-weight: 500;
+}
+.prueba2{
+  text-align: left;
+  font-size: 15px;
+  color: #F9CF00;
+  font-weight: bold;
+}
+
+.inflable-title{
+    font-weight: 500;
+    font-size: 15px;
+    color: #767777;
+}
+
+
+* {
+  box-sizing: border-box;
+  font-display: fallback;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 0px 0%;
+  max-width: 350px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 0px; flex-wrap: wrap;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 850px) {
+  .column {
+    width: 49%;
+    display: block;
+    margin-bottom: 20px;   
+  }
+}
+
+.pop{
+display: none;
+}
+
+.boxd
+{
+  display: block;
+}
+.boxp
+{
+  display: none;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 50%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .boxp
+  {
+    display: block;
+  }
+  .boxd
+  {
+    display: none;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;  
+  background-color: #FFFFFF;
+  text-align: left;
+}
+.card:hover{
+  background-color: #ebe4e4;
+}
+.filterpop
+{
+  margin-top: 0px;
+  display: none;
+}
+.lateral
+{
+  background-color: white; 
+  position: absolute;  
+  font-size:15px; 
+  left:5%; 
+  top:35%; 
+  width: 17%; 
+  height: 130%;
+}
+.lateral input{
+  width: 35%; 
+  height: 25px; 
+  border-radius: 10px; 
+  border: 1px solid gray
+}
+.nin
+{
+  width: 35%; 
+  height: 30px; 
+  border-radius: 10px; 
+  border: 1px solid gray
+}
+.menulateral
+{
+  padding-top: 10px; 
+  padding-left:5%; 
+  color: #000000
+}
+.sublat
+{
+  color:gray
+}
+@media screen and (max-width: 600px) {
+  .lateral
+{
+  background-color: #E7E4E4; 
+  position: absolute;  
+  font-size:60%; 
+  left:3%; 
+  top:25%; 
+  width: 25%; 
+  height: 100%;
+  display: none;
+}
+.filterpop
+{
+  position: absolute;  
+  font-size:70%; 
+  left:5%; 
+  top:20% !important; 
+  width: 25%; 
+  height: 100%;
+  display: block;
+}
+.lateral h6{
+  color: #4484CE !important;
+  font-size: 14px !important; 
+}
+.lateral input{
+  width: 35%; 
+  height: 20px; 
+  border-radius: 10px; 
+  border: 1px solid gray
+}
+.sublat
+{
+  display: none;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .filterpop{
+  top:25% !important; 
+  }
+}
+@media screen and (max-width: 375px) and (min-height: 800px){
+  .filterpop{
+  top:23% !important; 
+  }
+}
+@media screen and (max-width: 374px) {
+  .filterpop{
+  top:28% !important; 
+  }
+}
+@media screen and (max-width: 360px) {
+  .filterpop{
+  top:28% !important; 
+  }
+}

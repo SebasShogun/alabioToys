@@ -1,0 +1,104 @@
+[12-Aug-2020 14:10:28 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 14:10:29 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 14:11:39 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 14:11:42 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 15:32:18 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 15:32:21 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 15:33:40 America/Mexico_City] PHP Fatal error:  Class 'Anhskohbo\NoCaptcha\NoCaptchaServiceProvider' not found in /home/negocad/public_html/web_toys_laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[12-Aug-2020 15:40:00 America/Mexico_City] PHP Fatal error:  Class 'GuzzleHttp\Client' not found in /home/negocad/public_html/web_toys_laravel/vendor/anhskohbo/no-captcha/src/NoCaptcha.php on line 50
+[13-Aug-2020 13:41:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/storage/framework/views/6c85a430f2d66fe20259f3b25191025d1caf6316.php on line 95
+[13-Aug-2020 13:41:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/storage/framework/views/6c85a430f2d66fe20259f3b25191025d1caf6316.php on line 95
+[13-Aug-2020 13:42:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected '{' in /home/negocad/public_html/web_toys_laravel/storage/framework/views/6c85a430f2d66fe20259f3b25191025d1caf6316.php on line 95
+[13-Aug-2020 13:47:35 America/Mexico_City] PHP Parse error:  syntax error, unexpected '')); ?>"><img src="<?php echo ' (T_CONSTANT_ENCAPSED_STRING) in /home/negocad/public_html/web_toys_laravel/storage/framework/views/fcaeb3442df7e6ef94d76360c7ceff537f8e110d.php on line 29
+[13-Aug-2020 16:19:09 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\PaymentExecution' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerPaypal.php on line 123
+[13-Aug-2020 18:11:06 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[13-Aug-2020 18:11:46 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[13-Aug-2020 18:26:33 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[13-Aug-2020 18:28:33 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[13-Aug-2020 18:29:56 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[31-Aug-2020 12:43:33 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\stdClass' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerService.php on line 71
+[01-Sep-2020 17:24:08 America/Mexico_City] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCheckout.php on line 219
+[01-Sep-2020 17:25:49 America/Mexico_City] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCheckout.php on line 219
+[01-Sep-2020 17:44:23 America/Mexico_City] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCheckout.php on line 219
+[01-Sep-2020 18:33:36 America/Mexico_City] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCheckout.php on line 219
+[01-Sep-2020 18:50:16 America/Mexico_City] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCheckout.php on line 219
+[01-Sep-2020 18:52:30 America/Mexico_City] PHP Fatal error:  Class 'Stripe\Stripe' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCheckout.php on line 219
+[03-Sep-2020 12:00:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:00:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:00:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:01:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:01:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:01:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:01:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[03-Sep-2020 12:01:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 23
+[18-Sep-2020 17:25:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected '<' in /home/negocad/public_html/web_toys_laravel/storage/framework/views/7c7d6ef00b101aa7eb2b75e9f1b3560b922e600b.php on line 134
+[18-Sep-2020 17:26:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected '<' in /home/negocad/public_html/web_toys_laravel/storage/framework/views/7c7d6ef00b101aa7eb2b75e9f1b3560b922e600b.php on line 134
+[18-Sep-2020 17:31:08 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[18-Sep-2020 17:32:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ContollerPageForm.php on line 15
+[18-Sep-2020 17:33:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ContollerPageForm.php on line 15
+[18-Sep-2020 17:41:16 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home/negocad/public_html/web_toys_laravel/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[01-Oct-2020 12:33:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:34:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:34:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:35:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:36:58 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:37:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:38:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:38:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:38:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:39:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:39:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:40:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:41:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:44:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:45:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:46:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:47:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:51:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:51:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:53:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:53:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:53:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:56:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:57:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:58:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 12:59:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:01:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:02:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:03:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:04:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:05:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:05:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:06:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:07:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:08:03 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:08:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:08:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:08:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:08:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:09:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:09:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:09:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/negocad/public_html/web_toys_laravel/routes/web.php on line 156
+[01-Oct-2020 13:17:23 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 13:22:36 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 13:22:41 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 13:26:54 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 13:34:16 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 15:00:42 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 15:51:31 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 24
+[01-Oct-2020 18:07:13 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[01-Oct-2020 18:32:34 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[01-Oct-2020 19:32:22 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[02-Oct-2020 10:12:08 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[02-Oct-2020 12:17:40 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[02-Oct-2020 14:04:48 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[02-Oct-2020 14:04:52 America/Mexico_City] PHP Fatal error:  Class 'PDF' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 25
+[02-Nov-2020 16:20:58 America/Mexico_City] PHP Fatal error:  Call to undefined method Barryvdh\DomPDF\PDF::setTimeout() in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 73
+[02-Nov-2020 16:37:43 America/Mexico_City] PHP Fatal error:  Call to undefined method Barryvdh\DomPDF\PDF::setTimeout() in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 73
+[02-Nov-2020 16:39:37 America/Mexico_City] PHP Fatal error:  Call to undefined method Barryvdh\DomPDF\PDF::setTimeout() in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerCatalogo.php on line 73
+[09-Nov-2020 15:08:03 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/negocad/public_html/web_toys_laravel/storage/framework/views/6c85a430f2d66fe20259f3b25191025d1caf6316.php on line 446
+[09-Nov-2020 15:08:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/negocad/public_html/web_toys_laravel/storage/framework/views/6c85a430f2d66fe20259f3b25191025d1caf6316.php on line 446
+[09-Dec-2020 13:09:27 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\Response' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerOneService.php on line 222
+[09-Dec-2020 13:09:36 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\Response' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerOneService.php on line 222
+[09-Dec-2020 13:10:36 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\Response' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerOneService.php on line 222
+[09-Dec-2020 13:31:14 America/Mexico_City] PHP Fatal error:  Class 'App\Http\Controllers\Response' not found in /home/negocad/public_html/web_toys_laravel/app/Http/Controllers/ControllerOneService.php on line 222

@@ -1,0 +1,214 @@
+.cart_table{
+    padding: 12px 10px;
+    width:100%;
+}
+.centrar{
+    margin-left: 50px;
+}
+  .service_image{
+    border-radius: 50%;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.grid-cart{
+    width: 100%;
+    /* height: 30vh; */
+    margin: 0 auto;
+    display: grid;
+    grid-template: "izquierda derecha";
+    grid-template-columns: 8fr 4fr;
+    grid-column-gap: 0.2%;
+}
+
+.subtotal_Table
+{
+    width: 33%;
+}
+.subtotal_title
+{
+    border-bottom: 1.5px solid #4484CE;
+    width: 33%;
+}
+.tabla-products{
+    font-size: 15px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tabla-titulo{
+    background-color: #4484CE;
+    color: white;
+}
+.letter-total{
+    font-size: 15px !important;
+    padding-top: 2% !important;
+}
+.title-total{
+    color: white;
+    background-color: #4484CE;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+.productos-lista{
+    max-height: 80px;
+}
+.total-cuadro{
+    margin-left: 10%;
+    margin-right: 3%;
+}
+
+.delete1
+{
+    display: block;
+}
+.delete2
+{
+    display: none;
+}
+.delete3
+{
+    display: none;
+}
+.ocultar_todo{
+    display: none;
+}
+.srvice_amount
+{
+    max-width: 75px;
+}
+
+  @media only screen and (max-width: 900px) {
+    thead th:not(:first-child) {
+        display: none;
+    }
+    .productos-lista{
+        height: 80px;
+    }
+    .total-cuadro{
+        margin:5%;
+    }
+    .format-pad{
+        padding-top: 1% !important;
+        padding-bottom: 1% !important;
+    }
+    .total-square{
+        margin: 0 !important;
+        padding: 0% !important;
+        border-radius: 0.5rem;
+    }
+    .tabla-titulo{
+        padding-top:2% !important; 
+        padding-bottom:2% !important;
+    }
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+    }
+
+    td, th {
+        display: block;
+        border-color: gray;
+    }
+
+    td[data-th]:before  {
+        content: attr(data-th);
+    }
+    .centrar{
+        margin-left: 5px !important;
+    }
+    .tabla-products{
+        font-size: 11px !important;
+    }
+    .letter-products{
+        font-size: 11px !important;
+        padding: 0%;
+    }
+    .letter-total{
+        font-size: 11px !important;
+    }
+    .movil{
+        padding: 0% !important;
+        margin: 3% !important;
+    }
+
+    .service_image{
+        border-radius: 50%;
+        height: 50px !important;
+        width: 50px !important;
+        }
+        .cart_table{
+            padding: 12px 5px;
+            width:100%;
+        }
+        .subtotal_Table{
+    width: 100%;
+}
+.subtotal_title
+{
+    border-bottom: 1.5px solid #00A9E0;
+    width: 100%;
+}
+.delete1
+{
+    display: none;
+}
+.delete2
+{
+    display: inline;
+    padding-top: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 2px;
+}
+.delete3
+{
+    display: block;
+}
+
+  }
+
+.allpage{
+    padding: 10px 10px;
+    width:100%;
+}
+.foot-form
+{
+    display: none;
+}
+.btnrad
+{
+    border-radius: 10%;
+}
+.boton-compra{
+    background-color: #F9CF00;
+    border-radius: 0.5rem;
+    color: black !important;
+    font-weight: bold;
+    
+}
+.boton-compra:hover{
+    background-color: #4484CE;
+    color: white!important;
+}
+.remove-cart
+{
+    width: 10px;
+    height: 10px;
+}
+.alertmess
+{
+    background: #EAEDED;
+    width:100%;   
+    border-left: 5px solid #00A9E0
+}
+.labmess
+{
+    padding-left: 20px;
+    padding-top: 24px;
+    padding-bottom: 12px;
+    
+}
+.tablecart
+{
+    display: none;
+}
